@@ -1,0 +1,6 @@
+{
+  "name": "SpendTrack SMS - Android Expense Tracker",
+  "description": "Smart SMS expense tracker for Android built with Flutter & Material Design 3. Automatically parses bank SMS, detects Credit vs. Debit card transactions, identifies bank names, and provides customizable expense categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
